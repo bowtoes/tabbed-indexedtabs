@@ -12,6 +12,7 @@ static const char before[]      = "<";
 static const char after[]       = ">";
 static const char titletrim[]   = "...";
 static const int  tabwidth      = 200;
+static const int  tabstartindex = 1; /* Indexed Tabs */
 static const Bool foreground    = True;
 static       Bool urgentswitch  = False;
 
